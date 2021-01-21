@@ -1,4 +1,5 @@
 import express, {Request, Response} from 'express';
+import 'express-async-errors';
 import routes from './routes';
 import cors from 'cors'; //extensao para monitorar requisicoes feitas para o backend
 //import knex from './database/connection'; //importando variavel do mesmo nivel usando ponto
