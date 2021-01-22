@@ -8,8 +8,8 @@ const sorteioController = new SorteioController();
 routes.post('/pessoas', pessoasController.create);
 routes.post('/sorteio', sorteioController.index);
 routes.get('/pessoas', pessoasController.index);
-routes.patch('/pessoas', pessoasController.update);
-routes.delete('/pessoas', pessoasController.delete);
+routes.patch('/pessoas/:id', pessoasController.update);
+routes.delete('/pessoas/:id', pessoasController.delete);
 
 export default routes;
 
