@@ -7,3 +7,14 @@ Sistema em node.js e reactjs para simular um sorteio de nomes para um amigo secr
 - É necessário executar as migrations antes de executar o projeto, para isso, execute o comando **yarn knex:migrate** na pasta back_end/
 - Para executar o back-end deste projeto é necessário executar o comando **yarn dev:server** dentro da pasta back_end/
 - Para executar o front-end deste projeto é necessário executar o comando **yarn start** dentro da pasta front_end/
+
+<img src="https://imgur.com/QFj7Svj.gif">
+
+<img src="https://imgur.com/SSAEeU7.gif">
+
+<img src="https://imgur.com/jkZZGhl.gif">
+
+<img src="https://imgur.com/WIHlyUP.gif">
+
+<img src="https://imgur.com/CAEpMYB.gif">
+
